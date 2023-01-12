@@ -1,0 +1,15 @@
+{
+  "name": "full-stack-dev-files",
+  "version": "1.0.0",
+  "description": "This is a folder created to track all the activities of full stack programing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jijoraju/fullstack-activities.git"
+  },
+  "author": "Jijo Raju",
+  "license": "ISC"
+}
