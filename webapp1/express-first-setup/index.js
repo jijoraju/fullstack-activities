@@ -9,6 +9,13 @@ app.get("/", (req, res) => {
     `);
 });
 
+app.get("/json", (req, res) => {
+  res.send({
+    title: "json",
+    content: "Hello from json response helow",
+  });
+});
+
 app.listen(3000, () => {
   console.log("Application started");
 });
